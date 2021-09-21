@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath recruitsly recruitsly.wsgi --log-file -
